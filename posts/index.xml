@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dvash.dev</title>
+    <link>http://dvash.dev/posts/</link>
+    <description>Recent content in Posts on Dvash.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 17:53:43 +0300</lastBuildDate><atom:link href="http://dvash.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://dvash.dev/posts/welcome/</link>
+      <pubDate>Tue, 08 Jun 2021 17:53:43 +0300</pubDate>
+      
+      <guid>http://dvash.dev/posts/welcome/</guid>
+      <description>Hello , everyone.
+If you were looking for a place where you can launch spaceships, you&amp;rsquo;re almost there. Sometimes the simplest tasks seem like rocket science until we try them. It&amp;rsquo;s the easiest way to marvel at what we&amp;rsquo;re capable of.</description>
+    </item>
+    
+  </channel>
+</rss>
